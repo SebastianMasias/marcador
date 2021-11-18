@@ -1,0 +1,1 @@
+Con Rails db:seed se pueden sumar 20 nuevos. 
